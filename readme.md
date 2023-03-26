@@ -53,7 +53,7 @@ URI : 非公開
  | time | string |
  | detail | EEW_Earthquake |
  | calcelled | boolean |
- | areas | Array<EEWAreas>
+ | areas | EEWAreas[]
  | license | p2pquake.net - JSONAPI v2 as string |
  
  ### EEW_Earthquake
